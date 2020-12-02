@@ -37,7 +37,7 @@ body button:focus {
   color: #eeeeee;
 }
 .todoapp .todo-list .edit {
-  width: 97%;
+  width: 95%;
   border: 1px solid#d0530980;
   padding: 9px 0px 9px 17px;
   color: #d05309;

@@ -4,6 +4,10 @@ body {
   background-color: #eeeeee2e;
   font-family: "Roboto", sans-serif;
 }
+body input:focus,
+body button:focus {
+  outline: none !important
+}
 
 .todoapp {
   background-color: #ffffff;

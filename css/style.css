@@ -36,7 +36,14 @@ body button:focus {
 .completed {
   color: #eeeeee;
 }
-
+.todoapp .todo-list .edit {
+  width: 97%;
+  border: 1px solid#d0530980;
+  padding: 9px 0px 9px 17px;
+  color: #d05309;
+  border-radius: 8px;
+  margin-top: 10px;
+}
 .todoapp ul li .distroy {
   float: right;
   font-size: 17px;
